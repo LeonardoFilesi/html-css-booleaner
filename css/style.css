@@ -6,7 +6,7 @@ body
 
 #fake-link 
 {
-    color: aqua;
+    color: rgb(47, 145, 202);
 }
 
 
@@ -18,8 +18,9 @@ body
 
 .logo-pattern 
 {
-    background-image: image();
-    background-color: aqua;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(15, 184, 206);
+    background-size: cover;
     width: 10rem;
     margin-top: 3rem;
 }
@@ -40,4 +41,17 @@ body
 .colored-table 
 {
     background-color: aquamarine;
+}
+
+
+.footer-pic-1 
+{
+    width: 15rem;
+}
+
+
+.footer-pic-2 
+{
+
+    width: 10rem;
 }
