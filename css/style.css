@@ -1,17 +1,43 @@
-body {background-color:white;}
+body 
+{
+    background-color:white;
+}
 
-.logo-pattern {
-                background-image: image();
-                background-color: aqua;
-                width: 10rem;
-                margin-top: 3rem;
-                }
 
-.table {
-        width: 94rem;
-        
-        }
+#fake-link 
+{
+    color: aqua;
+}
 
-.table-titles {background-color: aqua;}
 
-.colored-table {background-color: aquamarine;}
+.ul-left-margin 
+{
+    margin-left: 1rem;
+}
+
+
+.logo-pattern 
+{
+    background-image: image();
+    background-color: aqua;
+    width: 10rem;
+    margin-top: 3rem;
+}
+
+
+.table 
+{
+    width: 94rem;
+}
+
+
+.table-titles 
+{
+    background-color: aqua;
+}
+
+
+.colored-table 
+{
+    background-color: aquamarine;
+}
