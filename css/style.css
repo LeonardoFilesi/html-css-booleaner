@@ -16,13 +16,19 @@ body
 }
 
 
-.logo-pattern 
+.logo-position
 {
-    background-image: url(../img/pattern.png);
-    background-color: rgb(15, 184, 206);
-    background-size: cover;
     width: 10rem;
     margin-top: 3rem;
+}
+
+
+.logo-png 
+{
+    background-color: rgb(15, 184, 206);
+    background-size: cover;
+    margin-top: 0rem;
+    height: 3rem;
 }
 
 
