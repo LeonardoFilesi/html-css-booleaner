@@ -25,6 +25,7 @@ body
 
 .logo-png 
 {
+    position: relative;
     background-color: rgb(15, 184, 206);
     background-size: cover;
     margin-top: 0rem;
